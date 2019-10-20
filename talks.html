@@ -1,0 +1,16 @@
+---
+layout: default
+title: "No Such Meetup - Talks"
+permalink: /talks/
+---
+<h1>Previous talks</h1>
+{% for talk in site.data.talks reversed %}
+{% capture title %}{{ talk.title }} by {{ talk.author }}{% endcapture %}
+{{ talk.date }}
+{% if talk.link %}
+	<a href="{% if talk.external %}{{ talk.link }}{% else %}{{ site.baseurl }}/assets/talks/{{ talk.link }}{% endif %}">{{ title }}</a>
+{% else %}
+	{{ title }}
+{% endif %}
+<br/>
+{% endfor %}
