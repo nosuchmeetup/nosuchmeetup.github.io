@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-29 października 2019 r.
+28 października 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
