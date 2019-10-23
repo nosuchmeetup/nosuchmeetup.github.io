@@ -23,6 +23,10 @@ Warszawa
 O czym:
 <pre style="white-space: pre-wrap;">
 TBA
+Mariusz Wołoszyn
+
+Ewolucja phishingu i socjotechniki oraz ich wpływ na sektor bankowy
+Wiktor Szymański
 </pre>
 
 <a href="/registration">Rejestracja</a>
