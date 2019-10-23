@@ -22,7 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+Machine Learning w security
 Mariusz Wołoszyn
 
 Ewolucja phishingu i socjotechniki oraz ich wpływ na sektor bankowy
