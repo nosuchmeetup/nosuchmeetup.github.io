@@ -1,5 +1,4 @@
 ---
-title: "No Such Meetup"
 layout: default
 permalink: /
 ---
