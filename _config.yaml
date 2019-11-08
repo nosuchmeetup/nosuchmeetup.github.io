@@ -1,7 +1,7 @@
 # Site settings.
 title: No Such Meetup
 url: "https://nosuchmeetup.pl/"
-# logo: "logo.png"
+logo: "logo.png"
 
 # Build settings.
 theme: jekyll-theme-minimal
