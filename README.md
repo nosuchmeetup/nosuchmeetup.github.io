@@ -9,7 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-28 października 2019 r.
+21 listopada 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -21,11 +21,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Machine Learning w security
-Mariusz Wołoszyn
-
-Ewolucja phishingu i socjotechniki oraz ich wpływ na sektor bankowy
-Wiktor Szymański
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
