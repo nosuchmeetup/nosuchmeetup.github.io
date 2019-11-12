@@ -8,9 +8,11 @@ theme: jekyll-theme-minimal
 
 # Social media.
 slack_url: https://join.slack.com/t/bsd-pl/shared_invite/enQtNTY5NTc2MDQ3OTU2LTY4Mzk4OWIzYTdjMDVhZmUyMjVlZjc1YjhhOGIyYjY4OTYwNmIyOWYzYmJhZDlkZjc3YzM2N2U0NzAyZmUzYzE
-facebook_url: https://www.facebook.com/pg/The-Polish-BSD-User-Group-2104511872897332
+facebook_url: https://www.facebook.com/NoSuchMeetup/
 twitter_url: https://twitter.com/NoSuchMeetup
 youtube_url: https://www.youtube.com/channel/UCWvDQaEHSULuCIVOOM66nYA
 
 # Link to the list of events.
 registration_url: https://www.meetup.com/NoSuchMeetup/events/
+
+bsdpl_url: https://bsd-pl.org/
