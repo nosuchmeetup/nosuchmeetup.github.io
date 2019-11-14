@@ -21,7 +21,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+Phreaking - telekomy chcą o tym zapomnieć (w tym TPSA)
+Rafał Wiosna
+
+QubesOS - z perspektywy użytkownika
+Zbigniew Łukasik
 </pre>
 
 <a href="/registration">Rejestracja</a>
