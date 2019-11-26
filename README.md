@@ -9,7 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-21 listopada 2019 r.
+10 grudnia 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -21,11 +21,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Phreaking - telekomy chcą o tym zapomnieć (w tym TPSA)
-Rafał Wiosna
-
-QubesOS - z perspektywy użytkownika
-Zbigniew Łukasik
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
