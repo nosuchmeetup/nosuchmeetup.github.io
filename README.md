@@ -21,7 +21,8 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+Analiza powłamaniowa okiem amatora - case study
+Piotr Jasiek
 </pre>
 
 <a href="/registration">Rejestracja</a>
