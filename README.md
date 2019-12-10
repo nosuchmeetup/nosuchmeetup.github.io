@@ -9,8 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-10 grudnia 2019 r.
-18:15 - 21:00
+TBA
 </pre>
 Gdzie:
 <pre>
@@ -21,8 +20,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Analiza powłamaniowa okiem amatora - case study
-Piotr Jasiek
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
