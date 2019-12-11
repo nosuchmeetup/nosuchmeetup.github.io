@@ -1,8 +1,21 @@
+- author: Mariusz Wołoszyn
+  title: Machine Learning w Security
+  date: 2019-10-28
+  position: 0
+  external: true
+  link: https://docs.google.com/presentation/d/1V4Fvphij1sp-w9ZJ-hwaeHDueppOn3ZFcMA_2JX8SH8/
+
 - author: Wiktor Szymański
   title: Ewolucja phishingu i socjotechniki oraz ich wpływ na sektor bankowy
   date: 2019-10-28
   position: 1
   link: 2019-10-28_1_Wiktor-Szymanski_Phishing.pdf
+
+- author: Rafał Wiosna
+  title: Phreaking - telekomy chcą o tym zapomnieć
+  date: 2019-11-21
+  position: 0
+  link: 2019-11-21_0_Rafal-Wiosna_Phreaking.pdf
 
 - author: Zbigniew Łukasiak
   title: QubesOS okiem użytkownika
