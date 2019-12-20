@@ -9,7 +9,8 @@ permalink: /
 
 Kiedy:
 <pre>
-TBA
+30 stycznia 2020 r.
+18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
