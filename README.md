@@ -21,7 +21,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
+Mój kernel jest moją twierdzą: funkcje bezpieczeństwa we współczesnym Linuxie
+Jarosław Jedyniak
+
+Współczesne zabezpieczenia anti-exploit w kompilatorach
+Michał "Redford" Kowalczyk
 </pre>
 
 <a href="/registration">Rejestracja</a>
