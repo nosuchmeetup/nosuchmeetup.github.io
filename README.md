@@ -9,7 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-30 stycznia 2020 r.
+18 luty 2020 r.
 18:15 - 21:00
 </pre>
 Gdzie:
@@ -21,11 +21,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Mój kernel jest moją twierdzą: funkcje bezpieczeństwa we współczesnym Linuxie
-Jarosław Jedyniak
-
-Współczesne zabezpieczenia anti-exploit w kompilatorach
-Michał "Redford" Kowalczyk
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
