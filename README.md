@@ -9,8 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-18 luty 2020 r.
-18:15 - 21:00
+TBA
 </pre>
 Gdzie:
 <pre>
