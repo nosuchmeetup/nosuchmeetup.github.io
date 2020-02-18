@@ -9,7 +9,8 @@ permalink: /
 
 Kiedy:
 <pre>
-TBA
+25 luty 2020 r.
+18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
@@ -20,11 +21,11 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Mój kernel jest moją twierdzą: funkcje bezpieczeństwa we współczesnym Linuxie
-Jarosław Jedynak
+TLS 1.3
+Miłosz Kaniewski
 
-Współczesne zabezpieczenia anti-exploit w kompilatorach
-Michał "Redford" Kowalczyk
+Introduction to CHERI architecture and software stack
+Konrad Witaszczyk
 </pre>
 
 <a href="/registration">Rejestracja</a>
