@@ -9,8 +9,7 @@ permalink: /
 
 Kiedy:
 <pre>
-25 luty 2020 r.
-18:15 - 21:00
+TBA
 </pre>
 Gdzie:
 <pre>
@@ -21,11 +20,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TLS 1.3
-Miłosz Kaniewski
-
-Introduction to CHERI architecture and software stack
-Konrad Witaszczyk
+TBA
 </pre>
 
 <a href="/registration">Rejestracja</a>
